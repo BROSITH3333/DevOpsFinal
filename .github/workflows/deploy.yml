@@ -1,5 +1,4 @@
-name: Auto Deploy
-
+name: Auto Deploy8
 on:
   push:
     branches: ["main"]
